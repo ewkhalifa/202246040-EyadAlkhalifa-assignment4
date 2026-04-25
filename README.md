@@ -50,6 +50,8 @@ https://ewkhalifa.github.io/202246040-EyadAlkhalifa-assignment4/
 
 ## Folder Structure
 
+
+```bash
 assignment-4/
 ├── README.md
 ├── index.html
@@ -57,6 +59,8 @@ assignment-4/
 │   └── styles.css
 ├── js/
 │   └── script.js
+├── assets/
+│   └── images/
 ├── docs/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
