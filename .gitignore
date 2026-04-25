@@ -1,0 +1,11 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (if you add later)
+node_modules/
+
+# Logs
+*.log
